@@ -1,4 +1,5 @@
 [![Code Climate](https://codeclimate.com/github/BibianaC/instagram_clone/badges/gpa.svg)](https://codeclimate.com/github/BibianaC/instagram_clone)
+[![Test Coverage](https://codeclimate.com/github/BibianaC/instagram_clone/badges/coverage.svg)](https://codeclimate.com/github/BibianaC/instagram_clone)
 
 Instagram Challenge
 ===================
