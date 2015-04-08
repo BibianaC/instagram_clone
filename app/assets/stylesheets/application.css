@@ -31,3 +31,9 @@ header {
   position: fixed;
   border-bottom: 1px solid #1c5380;
 }
+
+.sign_button {
+  text-decoration: none;
+  color: white;
+  font-weight: 700;
+}
