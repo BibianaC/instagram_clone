@@ -9,7 +9,9 @@
   %body
     %header
       - if user_signed_in?
+        %a.sign_button(href='/posts/new') Add a post
         = link_to "Sign out", destroy_user_session_path, method: :delete, :class => "sign_button"
+
       - else
         = link_to "Sign in", new_user_session_path, :class => "sign_button"
         = link_to "Sign up", new_user_registration_path, :class => "sign_button"
